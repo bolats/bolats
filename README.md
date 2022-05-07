@@ -1,5 +1,5 @@
 ### Hi there 👋, I'am Muhammed 
-#### Cyber Security and Development
+#### Software and Development
 
 <img src="https://smartpro.com.tr/wp-content/uploads/2019/02/etik-hacker-nasil-olunur-1200x675.jpg" alt="Hello world">
 
